@@ -47,7 +47,6 @@ public class Test {
 			}
 			a[j+1] = key;
 		}
-		
 	}
 	
 	/*
