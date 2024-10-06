@@ -12,6 +12,19 @@
 
 ## Algorithms Included
 
+### The following sorting algorithms are included in this repository:
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+
+## Setup
+
+## Usage
+
+## Explanations and Analysis
+
 ### Bubble Sort
 Bubble Sort repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. The process is repeated until the list is sorted.
 
@@ -46,11 +59,5 @@ Quick Sort is another divide-and-conquer algorithm that picks a pivot element an
 - **Time Complexity**: O(n log n) on average, but O(n²) in the worst case.
 - **Space Complexity**: O(log n) for in-place implementations.
 - **When to Use**: Highly efficient for large datasets, but performance depends on the pivot selection.
-
-## Setup
-
-## Usage
-
-## Explanations and Analysis
 
 ## Complexity Comparison
