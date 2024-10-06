@@ -64,5 +64,5 @@ Quick Sort is another divide-and-conquer algorithm that picks a pivot element an
 | Selection Sort | O(n²)                   | O(n²)                     | O(n²)                   | O(1)             | Unstable  |
 | Insertion Sort | O(n)                    | O(n²)                     | O(n²)                   | O(1)             | Stable    |
 | Merge Sort     | O(n log n)              | O(n log n)                | O(n log n)              | O(n)             | Stable    |
-| Quick Sort     | O(n log n)              | O(n log n)                | O(n²)     
+| Quick Sort     | O(n log n)              | O(n log n)                | O(n²)                   | O(log n)         | Unstable  |
 
