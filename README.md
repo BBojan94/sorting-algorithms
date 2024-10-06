@@ -8,7 +8,7 @@
 
 ## Overview
 
-### This project serves as a reference for different sorting algorithms implemented in Java (or your chosen language). Each algorithm is explained in detail, including how it functions, the steps involved, and its time and space complexity. The goal is to provide not just the code, but also insights into the behavior and efficiency of these algorithms.
+### This project serves as a reference for different sorting algorithms implemented in Java. Each algorithm is explained in detail, including how it functions, the steps involved, and its time and space complexity. The goal is to provide not just the code, but also insights into the behavior and efficiency of these algorithms.
 
 ## Algorithms Included
 
