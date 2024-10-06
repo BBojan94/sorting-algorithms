@@ -3,12 +3,12 @@
 ### Table of Contents
 - Overview
 - Algorithms Included
-- Setup
-- Usage
 - Explanations and Analysis
 - Complexity Comparison
 
 ## Overview
+
+### This project serves as a reference for different sorting algorithms implemented in Java (or your chosen language). Each algorithm is explained in detail, including how it functions, the steps involved, and its time and space complexity. The goal is to provide not just the code, but also insights into the behavior and efficiency of these algorithms.
 
 ## Algorithms Included
 
@@ -18,10 +18,6 @@
 - Insertion Sort
 - Merge Sort
 - Quick Sort
-
-## Setup
-
-## Usage
 
 ## Explanations and Analysis
 
@@ -61,3 +57,12 @@ Quick Sort is another divide-and-conquer algorithm that picks a pivot element an
 - **When to Use**: Highly efficient for large datasets, but performance depends on the pivot selection.
 
 ## Complexity Comparison
+
+| Algorithm      | Time Complexity (Best) | Time Complexity (Average) | Time Complexity (Worst) | Space Complexity | Stability |
+|----------------|------------------------|---------------------------|-------------------------|------------------|-----------|
+| Bubble Sort    | O(n)                    | O(n²)                     | O(n²)                   | O(1)             | Stable    |
+| Selection Sort | O(n²)                   | O(n²)                     | O(n²)                   | O(1)             | Unstable  |
+| Insertion Sort | O(n)                    | O(n²)                     | O(n²)                   | O(1)             | Stable    |
+| Merge Sort     | O(n log n)              | O(n log n)                | O(n log n)              | O(n)             | Stable    |
+| Quick Sort     | O(n log n)              | O(n log n)                | O(n²)     
+
