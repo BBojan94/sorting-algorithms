@@ -99,7 +99,7 @@ public class Test {
 		}
 	}
 	public static int partition(int[] a, int low, int high) {
-		// Choose the pivot element (can be any element from the array)
+	// Choose the pivot element (can be any element from the array)
         int pivot = a[high];
         // Index of the smaller element
         int i = low - 1;
