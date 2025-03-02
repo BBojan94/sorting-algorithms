@@ -12,7 +12,6 @@
 
 ## Algorithms Included
 
-### The following sorting algorithms are included in this repository:
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
